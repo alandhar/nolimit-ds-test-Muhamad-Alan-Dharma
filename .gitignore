@@ -1,0 +1,3 @@
+.venv/
+scraping_module/__pycache__/
+model-sentimen-indobert/
