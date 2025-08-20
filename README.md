@@ -71,7 +71,7 @@ jupyter notebook model.ipynb
 streamlit run app.py
 ```
 
-Atau langsung akses melalui link [demo](##demo) yang telah disediakan.
+Atau langsung akses melalui link [demo](#demo) yang telah disediakan.
 
 ---
 
@@ -99,6 +99,8 @@ IndoBERT dipilih karena:
 ## Flowchart
 
 ![Flowchart Model](asset/flowchart-model.png)
+
+Berikut adalah alur kerja proyek **Tokopedia Product Review Sentiment Classifier**:
 
 1. **Scraping Data Review**  
    - Mengambil data ulasan produk Tokopedia menggunakan `main_scraper.py`.
