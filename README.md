@@ -137,4 +137,4 @@ Berikut adalah alur kerja proyek **Tokopedia Product Review Sentiment Classifier
 
 Klik tombol di bawah untuk mencoba aplikasi Streamlit secara langsung:  
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nolimit-ds-test-muhamad-alan-dharma-pgqiey3r4ndkj3ylxrgiyu.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nolimit-ds-test-muhamad-alan-dharma-zcgupqljpxvazg5qfw3obq.streamlit.app/)
